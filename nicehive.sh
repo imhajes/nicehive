@@ -1,8 +1,8 @@
 #!/bin/bash
 
 baseUrl='https://api2.hiveos.farm/api/v2'
-login='HIVEOS_LOGIN'
-password='HIVEOS_PASS'
+login='imhajes'
+password='Ksa123Ksa'
 
 farm='FARMID'
 worker='WORKERID'
